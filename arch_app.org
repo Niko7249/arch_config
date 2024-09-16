@@ -1,0 +1,41 @@
+* File System
+https://wiki.archlinux.org/title/NTFS
+* Shell
+alacritty
+
+* find a library installed on the os
+ldconfig -p | grep libjpeg
+
+* mount and umount usb
+
+https://unix.stackexchange.com/questions/157154/how-to-list-disks-partitions-and-filesystems-in-linux
+
+* Windows manager
+i3
+** shortcut
+⊞ Win + ENTER open new terminal
+⊞ Win + SHIFT + Q close the window
+⊞ Win + w fullscreenn the window
+⊞ Win + e shows all windows vertically or horizontally.
+⊞ Win + vaffanculo :3
+
+* image opener
+fim
+https://wiki.archlinux.org/title/List_of_applications/Multimedia
+* pdf opener
+https://wiki.archlinux.org/title/PDF,_PS_and_DjVu
+
+* Bluetooth manager
+https://wiki.archlinux.org/title/bluetooth
+https://wiki.archlinux.org/title/bluetooth
+bluetuith
+
+* Audio Manager
+alsamixer
+
+* Wifi Manager
+iwctl
+
+- station wlan0 get-networks
+- station wlan0 connect SSID then insert password
+- station wlan0 disconnect SSID

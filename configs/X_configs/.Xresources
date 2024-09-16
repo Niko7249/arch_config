@@ -1,0 +1,18 @@
+! Fonts
+
+xterm*faceName: DejaVu Sans Mono
+xterm*fontSize: 80
+
+! Colors
+xterm*background: black
+xterm*foreground: gray
+xterm*cursorColor: red
+
+!scrollbar
+xterm*rightScrollBar: true
+xterm*scrollBar: true
+
+!Enable clipboard copying (requires xterm to be compiled with clipboard support)
+xterm*selecttoclipboard: true
+
+Xft.dpi: 192

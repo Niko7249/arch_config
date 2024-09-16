@@ -1,0 +1,23 @@
+* Software to study or whatever
+
+TMAX
+https://github.com/hantmac/tmax
+
+
+
+* Terminal Alternatives
+St is a simple terminal implementation for X.
+https://st.suckless.org/
+
+
+
+* Implementation of a bookarchive
+
+https://github.com/semaphoreci/book-monorepo-cicd
+
+
+
+* Dott. Stefano Signore primario urologia s.eugenio.
+
+https://www.urologia-online.com/index.php/chi-siamo/dott-stefano-signore
+
