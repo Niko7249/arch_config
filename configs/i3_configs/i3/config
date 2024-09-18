@@ -194,4 +194,5 @@ bar {
 
 # CUSTOM KEYBIND_NIKO
 bindsym Control+Shift+l exec i3lock
-
+bindsym XF86MonBrightnessUp exec brightnessctl set 10%+
+bindsym XF86MonBrightnessDown exec brightnessctl set 10%-
